@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app</string>
+    <string name="signature_view_reset">重签</string>
+    <string name="signature_view_confirm">确认</string>
+</resources>
